@@ -70,8 +70,8 @@
     <Compile Include="Packages\MCPForUnity\Editor\Setup\SetupWindowService.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Services\ServerManagementService.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Clients\Configurators\QwenCodeConfigurator.cs" />
-    <Compile Include="Packages\MCPForUnity\Editor\Tools\Profiler\Operations\FrameTimingOps.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Cameras\CameraControl.cs" />
+    <Compile Include="Packages\MCPForUnity\Editor\Tools\Profiler\Operations\FrameTimingOps.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Vfx\ManageVFX.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\ManageMaterial.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Clients\Configurators\CopilotCliConfigurator.cs" />
@@ -80,8 +80,8 @@
     <Compile Include="Packages\MCPForUnity\Editor\Services\Server\IPidFileManager.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Services\EditorStateCache.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Services\Server\IProcessTerminator.cs" />
-    <Compile Include="Packages\MCPForUnity\Editor\Helpers\RenderPipelineUtility.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Physics\PhysicsForceOps.cs" />
+    <Compile Include="Packages\MCPForUnity\Editor\Helpers\RenderPipelineUtility.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Vfx\ParticleControl.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Dependencies\PlatformDetectors\PlatformDetectorBase.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Dependencies\PlatformDetectors\IPlatformDetector.cs" />
@@ -155,8 +155,8 @@
     <Compile Include="Packages\MCPForUnity\Editor\Resources\MenuItems\GetMenuItems.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Resources\Scene\CamerasResource.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Graphics\SkyboxOps.cs" />
-    <Compile Include="Packages\MCPForUnity\Editor\Tools\ManageScript.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Helpers\VectorParsing.cs" />
+    <Compile Include="Packages\MCPForUnity\Editor\Tools\ManageScript.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Setup\RoslynInstaller.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Models\McpConfig.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Helpers\ComponentOps.cs" />
@@ -250,8 +250,8 @@
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Vfx\VfxGraphCommon.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Windows\Components\Advanced\McpAdvancedSection.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Physics\PhysicsQueryOps.cs" />
-    <Compile Include="Packages\MCPForUnity\Editor\Clients\Configurators\GeminiCliConfigurator.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Services\IResourceDiscoveryService.cs" />
+    <Compile Include="Packages\MCPForUnity\Editor\Clients\Configurators\GeminiCliConfigurator.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Vfx\ManageVfxCommon.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Physics\PhysicsSimulationOps.cs" />
     <Compile Include="Packages\MCPForUnity\Editor\Tools\Vfx\VfxGraphWrite.cs" />
